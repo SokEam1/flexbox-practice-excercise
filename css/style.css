@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+* {
+    font: 400 14px 'Roboto';
+}
+aside {
+}
+footer {
+    border-top: 1px solid navy;
+}
+h1 {
+    color: navy;
+    font-size: 3rem;
+}
+header {
+    border-bottom: 1px solid navy;
+}
+main {
+}
+nav {
+    background-color: #eee;
+}
+    nav a {
+        color: #39add1;
+        font-weight: 700;
+        text-decoration: none;
+    }
+ol,
+ul {
+    list-style-type: none;
+}
+small {
+    font-size: .8rem;
+}
+
+.btn {
+    background-color: navy;
+    border: none;
+    border-radius: 5px;
+    color: #eee;
+}
+.card {
+    background-color: #eee;
+    border-radius: 11px;
+    border: 1px solid navy;
+}
+    .card a {
+        color: #39add1;
+        font-weight: 700;
+        text-decoration: none;
+    }
+    .card h2,
+    .card h3 {
+        color: navy;
+        font-size: 1.25rem;
+    }
+.logo {
+    color: navy;
+    font-size: 24px;
+    text-decoration: none;
+}
+.social-media {
+    border-radius: 5px;
+    border: 1px solid navy;
+}
+    .social-media a {
+        font-weight: 700;
+        text-decoration: none;
+        color: #39add1;
+    }
